@@ -254,7 +254,7 @@ section {
 .hero {
     position: relative;
     height: 100vh;
-    background: url('https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/484906599_1198143658979163_3683743209087069596_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=Zu0bwJdlRE4Q7kNvwEx6XpY&_nc_oc=Adno9FVbgUUTrD89TUzdOdyM5VsuxiE3i5EfmylxBZNqKsxMS7cyORIemaRhbDzaRdsOqEV8EL9YpVBVgYWDJnSD&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=KokxGWveBQHM4uVSN-nQqA&_nc_ss=8&oh=00_AfyIZ459nZohzzwpPhVpb2-QzgWM9-qpSRUqwbTp3UguSg&oe=69AE9703') no-repeat center center/cover;
+    background: url('/src/assets/images/background.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -265,7 +265,7 @@ section {
 .quick-features {
     position: relative;
     padding: 80px 0;
-    background: url('https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/488001105_1212242747569254_5779162507532012261_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=044g7w6eIxEQ7kNvwGfKJwo&_nc_oc=AdlU8cfqqN-1MDWpjX4B7U4Kr2q9uu3x1FbDc8jcrCOknjQjNUNA3IozYdMjXh00JX5OpmGRgaKuKagMMGCXmGNO&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=1bKyruRErkTYxXu0WFoxhg&_nc_ss=8&oh=00_AfwS73pLZXdVjBgfUgJci63FYUHbJdqSlCeXSKXRygSIBg&oe=69AE9658') no-repeat center center/cover;
+    background: url('/src/assets/images/solarpanels.jpg') no-repeat center center/cover;
 }
 
 .hero::before,
