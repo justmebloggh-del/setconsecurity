@@ -254,7 +254,7 @@ section {
 .hero {
     position: relative;
     height: 100vh;
-    background: url('/src/assets/images/background.jpg') no-repeat center center/cover;
+    background: url('/src/assets/images/backgrnd2.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
