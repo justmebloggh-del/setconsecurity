@@ -262,6 +262,12 @@ section {
     color: white;
 }
 
+.quick-features {
+    position: relative;
+    padding: 80px 0;
+    background: url('https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/488001105_1212242747569254_5779162507532012261_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_ohc=044g7w6eIxEQ7kNvwGfKJwo&_nc_oc=AdlU8cfqqN-1MDWpjX4B7U4Kr2q9uu3x1FbDc8jcrCOknjQjNUNA3IozYdMjXh00JX5OpmGRgaKuKagMMGCXmGNO&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=1bKyruRErkTYxXu0WFoxhg&_nc_ss=8&oh=00_AfwS73pLZXdVjBgfUgJci63FYUHbJdqSlCeXSKXRygSIBg&oe=69AE9658') no-repeat center center/cover;
+}
+
 .hero::before,
 .hero::after {
     content: '';
