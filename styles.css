@@ -1080,3 +1080,9 @@ section {
         font-size: 0.9rem;
     }
 }
+
+.footer {
+    position: relative;
+    padding: 80px 0 30px;
+    background: url('/src/assets/images/house.jpg') no-repeat center center/cover;
+}
