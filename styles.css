@@ -268,6 +268,18 @@ section {
     background: url('/src/assets/images/solarpanels.jpg') no-repeat center center/cover;
 }
 
+.about {
+    position: relative;
+    padding: 100px 0;
+    background: url('/src/assets/images/domcam.jpg') no-repeat center center/cover;
+}
+
+.services {
+    position: relative;
+    padding: 100px 0;
+    background: url('/src/assets/images/fence.jpg') no-repeat center center/cover;
+}
+
 .hero::before,
 .hero::after {
     content: '';
