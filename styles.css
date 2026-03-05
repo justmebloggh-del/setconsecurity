@@ -280,6 +280,12 @@ section {
     background: url('/src/assets/images/fence.jpg') no-repeat center center/cover;
 }
 
+.products {
+    position: relative;
+    padding: 100px 0;
+    background: url('/src/assets/images/bulletcam.jpg') no-repeat center center/cover;
+}
+
 .hero::before,
 .hero::after {
     content: '';
